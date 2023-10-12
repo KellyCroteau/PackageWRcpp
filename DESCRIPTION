@@ -1,12 +1,13 @@
 Package: PackageWRcpp
 Type: Package
-Title: What the Package Does in One 'Title Case' Line
+Title: Playground for making a package with Rcpp
 Version: 1.0
 Date: 2023-10-12
-Author: Your Name
-Maintainer: Your Name <your@email.com>
-Description: One paragraph description of what the package does as one or more full
-          sentences.
+Author: Kelly Croteau
+Maintainer: Kelly Croteau <kellyc@windwardenv.com>
+Description: This is a test package for being able to use a package with Rcpp in 
+  a Shiny app on shinyapps.io. Functions and such will be changed as needed to 
+  test different components of doing that.
 License: GPL (>= 2)
 Imports: Rcpp (>= 1.0.10)
 LinkingTo: Rcpp
